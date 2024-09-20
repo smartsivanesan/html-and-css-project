@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color:white;
+    
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("istockphoto-517188688-1024x1024.jpg");
+    background-size: cover;
+    height: 120vh;
+
+}
+.siva{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border: 3px solid rgb(248, 18, 18);
+    width: 300px;
+    border-radius: 5px;
+   border-style: solid;
+}
+#d{
+    margin: 3px;
+    height: 35px;
+    padding: 10px;
+}
+button{
+    height: 35px;
+    margin:5px ;
+    background-color: black;
+    border-radius: 10px;
+}
+button:hover{
+    color: blue;
+    background-color: white;
+}
+#d ::placeholder{
+    color: aliceblue;
+}

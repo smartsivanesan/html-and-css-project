@@ -1,0 +1,32 @@
+.orange{
+    background-color: orange;
+    height: 50px;
+    width: 200px;
+    position: relative;
+}
+.white{
+    background-color: white;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
+.green{
+    background-color:green;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    
+}
+.ashoka{
+    height: 50px;
+    text-align: center;
+
+}
+body{
+ display: flex;
+    justify-content: center;
+    height: 120px;
+    text-align: center;
+    padding-top: 18%;
+    background: black;
+}

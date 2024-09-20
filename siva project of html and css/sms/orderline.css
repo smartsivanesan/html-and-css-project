@@ -1,0 +1,29 @@
+.name{
+    font-family: roboto;
+    text-align: center;
+    background-color: #323f4b;
+    padding: 18px;
+    color: aliceblue;
+}
+.p1{
+    color: white;
+    background-color: #47a3f3;
+    padding-top: -1px;
+    height: 27px;
+    border-radius: 7px;
+    text-align: right;
+    align-items: center;
+}
+.body1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    width: 400px;
+    height:450px;
+    background-size: 500px;
+}
+.p2{
+    color: white;
+    background-color: #52606d;
+    padding-top: -1px;
+    height: 27px;
+    border-radius: 7px;
+}
